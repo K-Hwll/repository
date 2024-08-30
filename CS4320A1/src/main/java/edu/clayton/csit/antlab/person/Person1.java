@@ -31,8 +31,6 @@ public class Person1 {
 	 */
 	private String calc(String input) {
 	  //Person 1 put your implementation here
-		input = name;
-		input = input.substring(0,1);
 	  return null;
 	}
 	
