@@ -9,4 +9,6 @@ Created Pull request to resolve bugs isted in Issues.
 8/30/24
 Merged changes for Issues from kristopher to main.
 8/30/24
+Merged updated method for Person1 and requirements for Person 1 in AntLabMain.
+8/30/24
 Added readme.p1.txt. Deleted useless.p1.txt
