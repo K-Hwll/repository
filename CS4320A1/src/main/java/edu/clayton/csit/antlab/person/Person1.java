@@ -30,8 +30,10 @@ public class Person1 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
-	  //Person 1 put your implementation here
-	  return null;
+	  //Creates 2 strings from input(str1 and str2) and concatenates them in the shifted format.
+		String str1 = input.substring(0,2);
+		String str2 = input.substring(2);
+	  return str2+str1;
 	}
 	
 	/**
