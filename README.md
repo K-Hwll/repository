@@ -20,3 +20,7 @@ Project Log:
 Added readme.p2.txt. Deleted useless.p2.txt
 8/31/24
 Created branch named 'john'
+9/1/24
+Completed required method for Person2.java and requirements for Person2 p2 in AntLabMain.
+9/1/24 
+Created pull request to merge Person2.java and AntLabMain to the main branch.
