@@ -12,3 +12,11 @@ Merged changes for Issues from kristopher to main.
 Merged updated method for Person1 and requirements for Person 1 in AntLabMain.
 8/30/24
 Added readme.p1.txt. Deleted useless.p1.txt
+
+
+John Nguyen 
+Project Log:
+8/31/24
+Added readme.p2.txt. Deleted useless.p2.txt
+8/31/24
+Created branch named 'john'
