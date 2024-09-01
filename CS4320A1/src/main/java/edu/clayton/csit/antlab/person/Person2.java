@@ -1,4 +1,5 @@
 package edu.clayton.csit.antlab.person;
+import java.util.*;
 
 /**
  *  A simple class for person 2
@@ -31,7 +32,20 @@ public class Person2 {
 	 */
 	private String calc(String input) {
 	  //Person 2 put your implementation here
-	  return null;
+	  List<Character> characters = new ArrayList<>(); //Converts input string into list of characters
+	  for (char c : input.toCharArray())
+	  {
+		characters.add(c); //Add each character to list
+	  }
+	  
+	  Collections.shuffle(characters); //Shuffles the characters
+
+	  StringBuilder shuffledString = new StringBuilder(); //Convert the list back to String
+	  for (char c : characters) 
+	  {
+		shuffledString.append(c); 
+	  } 
+	  return shuffledString.toString();
 	}
 	/**
 	 * Return a string rep of this object
