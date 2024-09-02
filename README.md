@@ -17,7 +17,8 @@ Merged updated method for Person1 and requirements for Person 1 in AntLabMain.
 Added readme.p1.txt. Deleted useless.p1.txt
 
 
-John Nguyen 
+John Nguyen
+branch: https://github.com/K-Hwll/repository/tree/john
 Project Log:
 8/31/24
 Added readme.p2.txt. Deleted useless.p2.txt
@@ -27,6 +28,7 @@ Created branch named 'john'
 Completed required method for Person2.java and requirements for Person2 p2 in AntLabMain.
 
 Kim Nguyen
+Branch: https://github.com/K-Hwll/repository/tree/Kim
 Project Log:
 8/31/2024
 Added the readme.p3.txt file, and then removed useless.p3.txt.
