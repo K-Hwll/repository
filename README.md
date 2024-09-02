@@ -25,5 +25,14 @@ Added readme.p2.txt. Deleted useless.p2.txt
 Created branch named 'john'
 9/1/24
 Completed required method for Person2.java and requirements for Person2 p2 in AntLabMain.
-9/1/24 
-Created pull request to merge Person2.java and AntLabMain to the main branch.
+
+Kim Nguyen
+Project Log:
+8/31/2024
+Added the readme.p3.txt file, and then removed useless.p3.txt.
+8/31/2024
+Created the 'Kim' branch.
+9/2/2024
+Updated the AntLabMain with my student info in the P3 line.
+9/2/24 
+Created pull request to merge 'Kim' branch to main.
