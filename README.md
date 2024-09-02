@@ -1,6 +1,9 @@
 CSCI 4320 Assignment 1
 
+Main Branch: https://github.com/K-Hwll/repository/tree/main
+
 Kristopher Howell
+Branch: https://github.com/K-Hwll/repository/tree/kristopher
 Project Log:
 8/28/24
 Created 2 Issues relating to bugs that did not allow the base code to run correctly.
